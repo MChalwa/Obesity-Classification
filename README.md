@@ -1,4 +1,4 @@
-# Obesity-Classification
+# Obesity Levels Classification Model
 ## Project Overview
 This repository showcases a machine learning model developed to classify obesity levels based on various health features, including eating habits, physical activity, and lifestyle factors. 
 The dataset used for training includes information on factors like frequent calorie consumption, physical activity, and alcohol use, with the target variable representing different obesity categories: Underweight, Normal, Overweight, Obesity I, Obesity II, and Obesity III.
@@ -27,6 +27,6 @@ Classes 1 (Normal) and 6 (Obesity III) have slightly lower recall, which may ind
 - Early Intervention: For individuals identified as underweight or overweight, the model can help pinpoint early stages of potential health risks, allowing for early intervention in nutrition or exercise regimes.
 
 - Targeted Health Programs: The model could help in designing targeted health programs or campaigns that focus on individuals in specific obesity categories, such as Obesity III (severe obesity), who may require more intensive interventions.
-  ## Conclusion
-  The obesity classification model developed for predicting obesity levels based on individuals' health data, eating habits, and physical activity shows strong performance, with an accuracy of 94.56% on the test set. The model performs exceptionally well in identifying individuals in extreme obesity categories (Underweight, Obesity I, Obesity II), and provides a reliable tool for assessing the risk levels of individuals based on their health behaviors. This can be particularly valuable for public health initiatives aimed at early intervention and targeted programs for obesity prevention. However, slight misclassifications in the Normal and Obesity III categories suggest that future model refinements or additional features could further enhance performance.
+## Conclusion
+The obesity classification model developed for predicting obesity levels based on individuals' health data, eating habits, and physical activity shows strong performance, with an accuracy of 94.56% on the test set. The model performs exceptionally well in identifying individuals in extreme obesity categories (Underweight, Obesity I, Obesity II), and provides a reliable tool for assessing the risk levels of individuals based on their health behaviors. This can be particularly valuable for public health initiatives aimed at early intervention and targeted programs for obesity prevention. However, slight misclassifications in the Normal and Obesity III categories suggest that future model refinements or additional features could further enhance performance.
 
